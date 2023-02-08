@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aqua;
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    background-color: brown;
+}
+
+nav{
+    background-color: chartreuse;
+}
+
+section{
+    background-color: chocolate;
+}
+
+article{
+    background-color: darkgreen;
+}
+
+aside{
+    background-color: darksalmon;
+}
+
+footer{
+    background-color: dodgerblue;
+}
+
